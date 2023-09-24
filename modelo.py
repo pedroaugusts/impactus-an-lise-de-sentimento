@@ -12,10 +12,10 @@ import plotly.express as px
 
 class Autorizador:
     def __init__(self):
-        self.api_key = 'km5KInWgcQADOZW6PbWeyoxdG'
-        self.api_key_secret = 'oEEhZwEQakFGNuOVWM6BjDfQQ6HDLzD1MGd6hon9CwZuEqWP5E'
-        self.acess_token = '1240425057890992130-9dlaCrTp8FDTupcafVno9HDNA8ryLL'
-        self.acess_token_secret = '4fkm975M2PlXngog76G462SVhPiSGsTppipJbhFUNuQAS'
+        self.api_key = ''
+        self.api_key_secret = ''
+        self.acess_token = ''
+        self.acess_token_secret = ''
 
 
 
