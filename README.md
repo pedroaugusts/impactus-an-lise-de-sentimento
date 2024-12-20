@@ -20,7 +20,7 @@
 - [x] Pandas
 
 ### Autor
-<p align="justify"> Pedro Augusto Paraense Pessoa, 24 anos, estudante de Ciências Econômicas na UFRJ e programador há 1 ano utilizando a linguagem Python. Hodiernamente, sou gestor de Operações na Liga de mercado financeiro Impactus UFRJ</p> 
+<p align="justify"> Pedro Augusto Paraense Pessoa, 24 anos, estudante de Ciências Econômicas na UFRJ e programador há 6 anos utilizando a linguagem Python. Hodiernamente, sou gestor de Operações na Liga de mercado financeiro Impactus UFRJ</p> 
 
 ### Features
 - [x] Coleta de Dados utiizando Tweepy
